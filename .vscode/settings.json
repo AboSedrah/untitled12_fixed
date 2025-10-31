@@ -1,0 +1,5 @@
+{
+    "inlineChat.notebookAgent": false,
+    "inlineChat.finishOnType": true,
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

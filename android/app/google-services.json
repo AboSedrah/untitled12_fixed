@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368906310342",
+    "firebase_url": "https://faisals-4523b-default-rtdb.firebaseio.com",
+    "project_id": "faisals-4523b",
+    "storage_bucket": "faisals-4523b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368906310342:android:db4a2c82062f35a456fdc7",
+        "android_client_info": {
+          "package_name": "com.example.untitled12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368906310342-0g6i9vhc0hmb74p3g8ibd0d9lphd2d8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled12",
+            "certificate_hash": "1ac752c5aa35465ab87ac72ca41436ca6ddbf96a"
+          }
+        },
+        {
+          "client_id": "368906310342-17bq7pjtmft508vbgsca4ootdgn1ec8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJ7xeyW485vEVfrFq4TcHiSyEqc6iF6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368906310342-17bq7pjtmft508vbgsca4ootdgn1ec8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
