@@ -46,3 +46,20 @@ app.*.map.json
 
 # Ignore Windows reserved device file if present
 nul
+
+# Ignore build and IDE/system files we don't want in the repo
+.gradle/
+/.gradle
+/.idea/
+.metadata
+.vscode/
+build/
+android/
+*.iml
+modules/
+.pub/
+.dart_tool/
+/.flutter-plugins-dependencies
+.DS_Store
+.flutter-plugins
+pubspec.lock
