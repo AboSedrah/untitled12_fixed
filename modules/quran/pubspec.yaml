@@ -1,0 +1,24 @@
+name: quran
+description: Quran text, translation, audio URLs, and details of pages, juz, surah, ayah, place of revelation etc.
+version: 1.2.2
+homepage: https://github.com/aqeelshamz/quran
+publish_to: "none"
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dartarabic:
+    path: ../dartarabic   # ← هذا هو المسار الصحيح
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+  flutter_test:
+    sdk: flutter
+  test: ^1.24.0
+
+flutter:
+# لا توجد أصول مطلوبة للحزمة نفسها
