@@ -1,0 +1,14 @@
+.vscode/
+build/
+android/
+.dart_tool/
+.gradle/
+**/.gradle/
+.lib.7z
+# Windows reserved file
+nul
+
+
+assets/mushaf_layout/QPC V1 Font.woff2/
+assets/raw/
+
