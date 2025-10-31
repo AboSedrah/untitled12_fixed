@@ -1,3 +1,0 @@
-void printYellow(String text){
-
-}
